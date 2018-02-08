@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Bitmap Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="paired_devices">Paired devices</string>
+    <string name="open_from">Open from</string>
+    <string name="device_storage">Device storage</string>
+    <string name="project_resources">Project resources</string>
+    <string name="open_from_device_storage">Open from device storage</string>
+    <string name="open_printer">Open\nprinter</string>
+    <string name="close_printer">Close\nprinter</string>
+    <string name="print">Print</string>
+    <string name="brightness">Brightness</string>
+    <string name="number_0">0</string>
+    <string name="number_50">50</string>
+    <string name="number_100">100</string>
+
+</resources>
